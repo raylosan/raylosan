@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raylosan
-- 👀 I’m interested in generative art
+- 👀 I’m interested in A.I and creating tools
 - 🌱 I’m currently learning python & A.I
-- 💞️ I’m looking to collaborate on coding in python
+- 💞️ I’m looking to learn and get feedback
 - 📫 How to reach me kghalem8@gmail.com
 
 <!---
