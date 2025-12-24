@@ -2,7 +2,7 @@
 - 👀 I’m interested in A.I and creating tools
 - 🌱 I’m currently learning python & A.I
 - 💞️ I’m looking to learn and get feedback
-- 📫 How to reach me kghalem8@gmail.com
+
 
 <!---
 raylosan/raylosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
